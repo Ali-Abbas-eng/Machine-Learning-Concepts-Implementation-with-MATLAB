@@ -1,2 +1,9 @@
-# Machine-Learning-Course-Assignments-_Coursera.org_Andrew-Ng_-
-My solutions of all the Machine Learning Course's Assignment on Coursera
+Implementation of basic Machine Learning Concepts using MATLAB
+ * Linear Regression
+ * Logistic Regression
+ * Multi-class Classification
+ * Neural Networks
+ * Regularization
+ * SVM
+ * Unsupervised Learning (K-means Clustering and Principal Component Analysis)
+ * Anomaly Detection and Recommendation Systems
